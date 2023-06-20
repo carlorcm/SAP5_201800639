@@ -17,6 +17,9 @@ app.get('/cliente/verificar-estado-pedido/:id', (req, res) => {
   res.send(`Estado del pedido ${pedidoId} verificado`);
 });
 
+// Exportar la aplicación de Express para las pruebas
+module.exports = app;
+
 app.listen(port, () => {
   console.log(`Microservicio de verificación de estado del pedido al restaurante escuchando en el puerto ${port}`);
 });
