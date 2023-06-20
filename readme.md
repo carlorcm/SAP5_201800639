@@ -8,5 +8,4 @@ Link del video https://youtu.be/k-hx53oVbXI
 
 ## Implementación de pruebas unitarias y SonarQube
 
-Link del video https://youtu.be/k-hx53oVbXI
-
+Link del video https://youtu.be/b2VmwnpOeg8
